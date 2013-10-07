@@ -2,6 +2,7 @@
                    Version 2, December 2004
 
 Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+http://www.wtfpl.net/
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document, and changing it is allowed as long
